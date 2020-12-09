@@ -1,0 +1,26 @@
+[1026/174404.918:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1027/140620.890:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/140620.892:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1027/140620.892:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1116/141512.548:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/085629.526:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/102851.700:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1203/112230.312:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1206/232643.591:ERROR:crash_report_database_win.cc(496)] failed to stat report
+[1206/232643.599:ERROR:crash_report_database_win.cc(496)] failed to stat report
+[1206/233643.591:ERROR:crash_report_database_win.cc(496)] failed to stat report
+[1206/233643.592:ERROR:crash_report_database_win.cc(496)] failed to stat report
+[1206/233643.592:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports\54fc21c6-8423-4be6-bd4b-6266088aec2e.dmp: The system cannot find the file specified. (0x2)
+[1206/233643.594:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports\962dab89-ca37-4d93-9336-1232cccb3971.dmp: The system cannot find the file specified. (0x2)
+[1206/233643.594:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1207/124755.342:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1207/180045.434:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1207/214946.902:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/105157.929:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/112621.711:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/112621.700:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/112621.679:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1208/112621.952:ERROR:exception_snapshot_win.cc(99)] thread ID 267628 not found in process
+[1208/112621.952:ERROR:exception_snapshot_win.cc(99)] thread ID 269088 not found in process
+[1208/112621.952:ERROR:exception_snapshot_win.cc(99)] thread ID 261400 not found in process
+[1208/115629.432:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
