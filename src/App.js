@@ -4,6 +4,7 @@ import { Switch, Route } from "react-router-dom";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import ProductList from "./components/ProductList";
 import Details from "./components/Details";
 import Cart from "./components/Cart";
@@ -21,6 +22,7 @@ function App() {
         <Route component={Default} />
       </Switch>
       <Modal />
+      <Footer />
     </React.Fragment>
   );
 }

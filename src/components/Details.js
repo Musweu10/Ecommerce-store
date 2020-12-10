@@ -21,7 +21,7 @@ class Details extends Component {
             <div className="container py-5">
               {/* title */}
               <div className="row">
-                <div className="col-10 mx-auto text-center text-slanted text-blue my-5">
+                <div className="col-10 mx-auto text-center text-slanted text-blue my-5 text-details">
                   <h1>{title}</h1>
                 </div>
               </div>
@@ -34,13 +34,13 @@ class Details extends Component {
                 </div>
                 {/* Product Text */}
                 <div className="col-10 mx-auto col-md-6 my-3 text-captalize">
-                  <h2>Model: {title}</h2>
+                  <h2>Item: {title}</h2>
                   <h4 className="text-title text-uppercase text-muted mt-3 mb-2">
                     made by : <span className="text-uppercase">{company}</span>
                   </h4>
                   <h4 className="text-blue">
                     <strong>
-                      Price : <span>$</span>
+                      Price : <span>K</span>
                       {price}
                     </strong>
                   </h4>

@@ -1,21 +1,38 @@
 :root {
     --mainBlue: #2a2a72;
     --lightBlue: #009ffd;
+    --white: #ffffff;
     --mainWhite: #f3f3f3;
     --mainDark: #232528;
     --mainYellow: #ffa400;
+    --mainGreen: #61b15a;
+    --mainNavbar: #3a3939;
+    --red: #d35d6e;
+    --dark: #3a3939;
 }
 
 body {
-    font-family: 'Oswald', sans-serif!important;
+    font-family: 'Poppins', sans-serif!important;
     background: var(--mainWhite)!important;
     color: var(--mainDark)!important;
 }
 
 .text-title {
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Montserrat', cursive;
     letter-spacing: 0.3rem;
     text-transform: uppercase;
+}
+
+.text-details {
+    font-family: 'Poppins', cursive;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+    /* background: #4c4c4c; */
+}
+
+.text-logo {
+    font-family: 'Poppins', cursive;
+    letter-spacing: 0.2rem;
 }
 
 .text-blue {
@@ -24,6 +41,14 @@ body {
 
 .text-bright {
     color: var(--lightBlue);
+}
+
+.logo-btn {
+    font-size: large!important;
+    color: #ffffff!important;
+    background: #505050!important;
+    padding: 10px!important;
+    justify-content: space-evenly!important;
 }
 
 .btn-black {
@@ -43,5 +68,5 @@ body {
 .cart-icon {
     cursor: pointer;
     font-size: 1.2rem;
-    color: var(--mainYellow);
+    color: var(--red);
 }
