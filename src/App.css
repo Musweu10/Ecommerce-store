@@ -43,6 +43,10 @@ body {
     color: var(--lightBlue);
 }
 
+.clearcart {
+    border-radius: 0.7rem!important;
+}
+
 .logo-btn {
     font-size: large!important;
     color: #ffffff!important;
