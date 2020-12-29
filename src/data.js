@@ -313,7 +313,7 @@ export const storeProducts = [
   },
   {
     id: 27,
-    title: "Playstaion 5",
+    title: "Playstation 5",
     img: "img/ps5.png",
     price: 14990,
     company: "Sony",
